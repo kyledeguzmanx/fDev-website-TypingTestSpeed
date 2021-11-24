@@ -1,4 +1,4 @@
-# fDev-website-TypingTestSpeed   
+# Timed Typing Test     
 
 ## Introduction  
 This is a simple web page to test your typing speed. The user is given a sentence to type. When the user begins to type, the timer begins. Once the user succesfully copies the sentence, the timer stops. If the user wants to reset the timer, they can also do that.
